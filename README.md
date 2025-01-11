@@ -1,8 +1,11 @@
 This is a python based convertor - 
 
 Requirements (to be in same folder)
+
 FFMpeg (from FFMpeg package)
+
 FFProbe (from FFMpeg package)
+
 MKVMerge (from MKVToolNix package)
 
 For some reason, the code will not listen to Windows Paths settings for FFMpeg.
